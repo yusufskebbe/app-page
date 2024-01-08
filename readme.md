@@ -1,6 +1,6 @@
-# Simple Tailwind CSS Starter
+# About Project
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This website built for any tech company who wants to launch a new software or application
 
 ## Usage
 
