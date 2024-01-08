@@ -1,0 +1,15 @@
+{
+  "name": "software-app-startup",
+  "version": "1.0.0",
+  "description": "Website for lunching new application | software",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
+    "build": "tailwindcss -i ./input.css -o ./css/style.css"
+  },
+  "author": "Yusuf KEBBE",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
